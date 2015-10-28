@@ -6,10 +6,8 @@
 **About me**
 My name is **Jess Gardner**
 
-+hello
-
+++hello
 +hi
-
 +Hello
 
 1. List1
